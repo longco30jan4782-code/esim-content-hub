@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://longco30jan4782-code.github.io/esim-content-hub/sitemap.xml
