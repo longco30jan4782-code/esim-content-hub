@@ -47,7 +47,11 @@
 ## 公开页面
 
 - 网站首页：<https://longco30jan4782-code.github.io/esim-content-hub/>
+- 横向比较测评：<https://longco30jan4782-code.github.io/esim-compare-review/>
+- 视频宣传资料库：<https://longco30jan4782-code.github.io/esim-video-showcase/>
 - Telegram 公开入口：<https://t.me/esimka_orderbot>
+
+首页已将横向比较测评和视频资料库作为最新公开资源统一挂载，并通过 ItemList 结构化数据、站内导航与专题卡片建立关联。
 
 ## 本地预览
 
