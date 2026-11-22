@@ -50,9 +50,11 @@
 - 横向比较测评：<https://longco30jan4782-code.github.io/esim-compare-review/>
 - 视频宣传资料库：<https://longco30jan4782-code.github.io/esim-video-showcase/>
 - 香港 IP eSIM 重点套餐页：<https://longco30jan4782-code.github.io/esim-hk-ip-plans/>
+- 出行卡香港 IP eSIM 套餐页：<https://longco30jan4782-code.github.io/esim-chuxingka-plans/>
+- 新官网：<https://chuxingka.top>
 - Telegram 公开入口：<https://t.me/esimka_orderbot>
 
-首页已将横向比较测评、视频资料库和香港 IP eSIM 重点套餐页作为公开资源统一挂载，并通过 ItemList 结构化数据、站内导航与专题卡片建立关联。重点套餐包括 28 CNY / 180 天 / 3G、120 CNY / 30 天 / 120G、165 CNY / 30 天 / 300G，均以公开套餐页面说明为准。
+首页已将横向比较测评、视频资料库、香港 IP eSIM 重点套餐页和出行卡新套餐页作为公开资源统一挂载，并通过 ItemList 结构化数据、站内导航与专题卡片建立关联。重点套餐包括 28 CNY / 180 天 / 3G、120 CNY / 30 天 / 120G、165 CNY / 30 天 / 300G，均以公开套餐页面说明为准。
 
 ## 本地预览
 
